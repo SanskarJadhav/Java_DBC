@@ -1,2 +1,2 @@
 # Java_DBC
-PIJ Lab Assignment 9
+This is a demo program of Database Connection with MySql in Java.
